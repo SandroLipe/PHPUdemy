@@ -1,6 +1,7 @@
 <?php
 
-echo "Mensagem inicial 1234";
-echo "Olá Mundo"
+
+echo "Mensagem inicial";
+echo "Olá Mundo e Mensagem para conflito";
 
 ?>
